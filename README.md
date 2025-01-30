@@ -2,7 +2,7 @@
 <h4 align="center">Data Alchemist 📊 | Aspiring Data Scientist</h4>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently studying on **M.Sc Computational Data Science At YVU University**
 
 - 🌱 I’m currently learning **Python, Power BI, Tableau, SQL, Adv Excel, RPA.**
 
