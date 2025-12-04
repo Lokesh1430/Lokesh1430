@@ -14,13 +14,12 @@
 
 
 ## Profile Visitors: ## 
-![Visitor Count](https://profile-counter.glitch.me/lokesh1430/count.svg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lokesh1430&count_private=true&show_icons=true&theme=dark&cache_seconds=7200" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lokesh1430&count_private=true&show_icons=true&theme=dark" alt="lokesh1430" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1430&show_icons=true&theme=dark&layout=compact&cache_seconds=7200" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1430&show_icons=true&theme=dark" alt="lokesh1430" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=lokesh1430&theme=algolia&row=1&column=6&margin-w=10&margin-h=10&no-frame=true&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lokesh1430&theme=algolia)](https://github.com/lokesh1430/github-profile-trophy)
 
 ## Streak: ##
 
