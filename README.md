@@ -14,16 +14,24 @@
 
 
 
-## Profile Visitors: ## 
-![Visitor Count](https://profile-counter.glitch.me/lokesh1430/count.svg)
+## 👀 Profile Visitors
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lokesh1430&count_private=true&show_icons=true&theme=dark" alt="lokesh1430" /></p>
+![Visitor Count](https://hits.sh/github.com/lokesh1430.svg?style=flat-square&color=blue)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1430&show_icons=true&theme=dark" alt="lokesh1430" /></p>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lokesh1430&theme=algolia)](https://github.com/lokesh1430/github-profile-trophy)
+## 📊 GitHub Stats
 
-once check this is not load
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokesh1430&theme=github_dark" />
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokesh1430&theme=github_dark" />
+
+<br/><br/>
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=lokesh1430&theme=darkhub&no-frame=true&margin-w=10)
+
 
 
 ## Streak: ##
