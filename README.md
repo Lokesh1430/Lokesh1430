@@ -28,10 +28,6 @@
 
 <br/><br/>
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=lokesh1430&theme=darkhub&no-frame=true&margin-w=10)
-
 
 
 ## Streak: ##
